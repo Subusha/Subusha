@@ -42,10 +42,10 @@ const developer = {
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=subushaiduwara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=subusha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📈 Contribution Graph
-![](https://activity-graph.herokuapp.com/graph?username=subushaiduwara&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=subusha&theme=redical)
 
 ## 🎯 Current Goals
 - 🌱 Master Web Designing
