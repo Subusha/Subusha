@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there
 
 # <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Subusha+Iduwara!;Don't+forget+to+follow+me!!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=440&lines=I'm+Subusha+Iduwara!;Don't+forget+to+follow+me!!" alt="Typing Animation" />
 </p>
 
 ## 🚀 About Me
