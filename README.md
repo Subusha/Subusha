@@ -1,13 +1,13 @@
-# Hi there, I'm [Your Name] 👋 
+```markdown
+# Hi there, I'm Subusha Iduwara 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subusha-iduwara)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/subusha_iduwara)
 
 ## 🚀 About Me
 ```typescript
 const developer = {
-    name: "Your Name",
+    name: "Subusha Iduwara",
     role: "Full Stack Developer",
     languages: ["JavaScript", "TypeScript", "Python", "Java"],
     currentlyLearning: "Cloud Architecture",
@@ -37,15 +37,15 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subushaiduwara&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subushaiduwara&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=subushaiduwara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📈 Contribution Graph
-![](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=subushaiduwara&theme=redical)
 
 ## 🎯 Current Goals
 - 🌱 Master Cloud Architecture
@@ -54,11 +54,12 @@ const developer = {
 - 📝 Write tech blogs regularly
 
 ## 📫 How to reach me
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- 🌐 Website: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: subusha.iduwara@example.com
+- 💼 LinkedIn: [Subusha Iduwara](https://linkedin.com/in/subusha-iduwara)
+- 🌐 Website: [subushaiduwara.com](https://subushaiduwara.com)
 
 ---
 <div align="center">
    <i>⚡ Happy coding! ⚡</i>
 </div>
+``` 
