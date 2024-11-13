@@ -1,14 +1,8 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm Subusha Iduwara
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
-
-## 🚀 About Me
-
-<p align="center">
+# <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Subusha+Iduwara!;Don't+forget+to+follow+me!!" alt="Typing Animation" />
 </p>
+
+## 🚀 About Me
 
 - 😊 I’m Subusha Iduwara
 - 👦🏻 I'm 21 years old
@@ -36,6 +30,12 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subusha&layout=compact&theme=radical&langs_count=8&exclude_repo=repo1,repo2" alt="Top Languages" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -55,10 +55,12 @@
 - 🚀 Build a SaaS product
 - 📝 Post Tech Content daily
 
-## 📫 How to reach me
-- 📧 Email: chatuniduwara@gmail.com
-- 💼 LinkedIn: [Subusha Iduwara](https://www.linkedin.com/in/subushaiduwara/)
-- 🌐 Website: [subushaiduwara.com](https://subushaiduwara.com)
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subushaiduwara/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/subusha.iduwara)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
 
 ---
 <div align="center">
