@@ -9,9 +9,9 @@
 const developer = {
     name: "Subusha Iduwara",
     role: "Full Stack Developer",
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
-    currentlyLearning: "Cloud Architecture",
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    languages: ["JavaScript", "TypeScript", "Python", "Java", "HTML/CSS", "PHP", "C++", "C#", "C"],
+    currentStatus: "Undergraduate",
+    askMeAbout: ["Web Dev", "Tech", "App Dev", "Videography & Photography", "Gaming"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -48,13 +48,13 @@ const developer = {
 ![](https://activity-graph.herokuapp.com/graph?username=subushaiduwara&theme=redical)
 
 ## 🎯 Current Goals
-- 🌱 Master Cloud Architecture
+- 🌱 Master Web Designing
 - 👯 Contribute to Open Source projects
 - 🚀 Build a SaaS product
-- 📝 Write tech blogs regularly
+- 📝 Post Tech Content daily
 
 ## 📫 How to reach me
-- 📧 Email: subusha.iduwara@example.com
+- 📧 Email: chatuniduwara@gmail.comm
 - 💼 LinkedIn: [Subusha Iduwara](https://linkedin.com/in/subusha-iduwara)
 - 🌐 Website: [subushaiduwara.com](https://subushaiduwara.com)
 
