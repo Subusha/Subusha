@@ -1,20 +1,22 @@
-```markdown
-# Hi there, I'm Subusha Iduwara 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm Subusha Iduwara
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subushaiduwara/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/subusha.iduwara)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 
 ## 🚀 About Me
-```typescript
-const developer = {
-    name: "Subusha Iduwara",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "TypeScript", "Python", "Java", "HTML/CSS", "PHP", "C++", "C#", "C"],
-    currentStatus: "Undergraduate",
-    askMeAbout: ["Web Dev", "Tech", "App Dev", "Videography & Photography", "Gaming"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Subusha+Iduwara!;Don't+forget+to+follow+me!!" alt="Typing Animation" />
+</p>
+
+- 😊 I’m Subusha Iduwara
+- 👦🏻 I'm 21 years old
+- 👀 I’m interested in HTML, CSS, JavaScript, C++, Hacking, Web Development, and more.
+- 🌱 I’m currently pursuing a BSc (Hons) in Software Engineering at SLIIT affiiated by the University of Bedfordshire, UK.
+- 💞️ I’m looking to collaborate on building websites and web apps, and more.
+- 📫 Email me via chatuniduwara@gmail.com to get in touch.
+- 💬 Text me on WhatsApp +94760528721.
 
 ## 🛠️ Tech Stack
 
