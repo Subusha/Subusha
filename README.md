@@ -37,8 +37,8 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subushaiduwara&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subushaiduwara&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subusha&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subusha&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -54,8 +54,8 @@ const developer = {
 - 📝 Post Tech Content daily
 
 ## 📫 How to reach me
-- 📧 Email: chatuniduwara@gmail.comm
-- 💼 LinkedIn: [Subusha Iduwara](https://linkedin.com/in/subusha-iduwara)
+- 📧 Email: chatuniduwara@gmail.com
+- 💼 LinkedIn: [Subusha Iduwara](https://www.linkedin.com/in/subushaiduwara/)
 - 🌐 Website: [subushaiduwara.com](https://subushaiduwara.com)
 
 ---
