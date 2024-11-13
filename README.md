@@ -45,7 +45,7 @@ const developer = {
 ![](https://github-profile-trophy.vercel.app/?username=subusha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📈 Contribution Graph
-![](https://activity-graph.herokuapp.com/graph?username=subusha&theme=redical)
+![Subusha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subusha&theme=redical)
 
 ## 🎯 Current Goals
 - 🌱 Master Web Designing
@@ -62,4 +62,3 @@ const developer = {
 <div align="center">
    <i>⚡ Happy coding! ⚡</i>
 </div>
-``` 
