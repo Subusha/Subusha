@@ -56,7 +56,8 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-EA39FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=black)
 
-'## 📊 Most Used Languages
+''
+## 📊 Most Used Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subusha&layout=compact&theme=radical&langs_count=8&exclude_repo=repo1,repo2" alt="Top Languages" />
@@ -76,8 +77,8 @@
 
 
 ## 📈 Contribution Graph
-![Subusha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subusha&theme=redical)'
-
+![Subusha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subusha&theme=redical)
+''
 
 ## 🎯 Current Goals
 - 🌱 Master Web Designing
