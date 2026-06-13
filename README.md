@@ -56,7 +56,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-EA39FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=black)
 
-''
+
 ## 📊 Most Used Languages
 
 <div align="center">
@@ -78,7 +78,7 @@
 
 ## 📈 Contribution Graph
 ![Subusha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subusha&theme=redical)
-''
+
 
 ## 🎯 Current Goals
 - 🌱 Master Web Designing
